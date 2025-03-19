@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tofu\\source\\repos\\LAB01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|c:\\users\\tofu\\source\\repos\\lab01\\lab01\\menuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\menuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|c:\\users\\tofu\\source\\repos\\lab01\\lab01\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|c:\\users\\tofu\\source\\repos\\lab01\\lab01\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|c:\\users\\tofu\\source\\repos\\lab01\\lab01\\xor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\xor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|C:\\Users\\Tofu\\source\\repos\\LAB01\\lab01\\xor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\xor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|C:\\Users\\Tofu\\source\\repos\\LAB01\\lab01\\xor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\xor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|C:\\Users\\Tofu\\source\\repos\\LAB01\\lab01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|C:\\Users\\Tofu\\source\\repos\\LAB01\\lab01\\caesarcipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\caesarcipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|C:\\Users\\Tofu\\source\\repos\\LAB01\\lab01\\caesarcipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\caesarcipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|C:\\Users\\Tofu\\source\\repos\\LAB01\\lab01\\vigenere.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\vigenere.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|C:\\Users\\Tofu\\source\\repos\\LAB01\\lab01\\vigenere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\vigenere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|C:\\Users\\Tofu\\source\\repos\\LAB01\\lab01\\vigenere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\vigenere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|C:\\Users\\Tofu\\source\\repos\\LAB01\\lab01\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|C:\\Users\\Tofu\\source\\repos\\LAB01\\lab01\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|C:\\Users\\Tofu\\source\\repos\\LAB01\\lab01\\caesarcipher.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\caesarcipher.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|C:\\Users\\Tofu\\source\\repos\\LAB01\\lab01\\playfair.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\playfair.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuForm.cs",
+              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\MenuForm.cs",
+              "RelativeDocumentMoniker": "LAB01\\MenuForm.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\MenuForm.cs",
+              "RelativeToolTip": "LAB01\\MenuForm.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T04:05:32.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "XOR.cs",
+              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\XOR.cs",
+              "RelativeDocumentMoniker": "LAB01\\XOR.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\XOR.cs",
+              "RelativeToolTip": "LAB01\\XOR.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwCgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T04:07:05.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "XOR.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\XOR.Designer.cs",
+              "RelativeDocumentMoniker": "LAB01\\XOR.Designer.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\XOR.Designer.cs",
+              "RelativeToolTip": "LAB01\\XOR.Designer.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAlwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T04:06:11.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\Program.cs",
+              "RelativeDocumentMoniker": "LAB01\\Program.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\Program.cs",
+              "RelativeToolTip": "LAB01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:33:35.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XOR.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\XOR.cs",
+              "RelativeDocumentMoniker": "LAB01\\XOR.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\XOR.cs [Design]",
+              "RelativeToolTip": "LAB01\\XOR.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T04:05:43.256Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\MenuForm.Designer.cs",
+              "RelativeDocumentMoniker": "LAB01\\MenuForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\MenuForm.Designer.cs",
+              "RelativeToolTip": "LAB01\\MenuForm.Designer.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAG4AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T04:05:22.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\MenuForm.cs",
+              "RelativeDocumentMoniker": "LAB01\\MenuForm.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\MenuForm.cs [Design]",
+              "RelativeToolTip": "LAB01\\MenuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T04:05:01.217Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CaesarCipher.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\CaesarCipher.cs",
+              "RelativeDocumentMoniker": "LAB01\\CaesarCipher.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\CaesarCipher.cs [Design]",
+              "RelativeToolTip": "LAB01\\CaesarCipher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:30:34.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CaesarCipher.cs",
+              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\CaesarCipher.cs",
+              "RelativeDocumentMoniker": "LAB01\\CaesarCipher.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\CaesarCipher.cs",
+              "RelativeToolTip": "LAB01\\CaesarCipher.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:32:00.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Vigenere.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\Vigenere.cs",
+              "RelativeDocumentMoniker": "LAB01\\Vigenere.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\Vigenere.cs [Design]",
+              "RelativeToolTip": "LAB01\\Vigenere.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:05:36.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Vigenere.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\Vigenere.Designer.cs",
+              "RelativeDocumentMoniker": "LAB01\\Vigenere.Designer.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\Vigenere.Designer.cs",
+              "RelativeToolTip": "LAB01\\Vigenere.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:06:08.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Playfair.cs",
+              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\Playfair.cs",
+              "RelativeDocumentMoniker": "LAB01\\Playfair.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\Playfair.cs",
+              "RelativeToolTip": "LAB01\\Playfair.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAQwGkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:04:17.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vigenere.cs",
+              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\Vigenere.cs",
+              "RelativeDocumentMoniker": "LAB01\\Vigenere.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\Vigenere.cs",
+              "RelativeToolTip": "LAB01\\Vigenere.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:11:38.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Playfair.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\Playfair.cs",
+              "RelativeDocumentMoniker": "LAB01\\Playfair.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\Playfair.cs [Design]",
+              "RelativeToolTip": "LAB01\\Playfair.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:34:33.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CaesarCipher.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\CaesarCipher.Designer.cs",
+              "RelativeDocumentMoniker": "LAB01\\CaesarCipher.Designer.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\CaesarCipher.Designer.cs",
+              "RelativeToolTip": "LAB01\\CaesarCipher.Designer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:30:38.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Playfair.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\Playfair.Designer.cs",
+              "RelativeDocumentMoniker": "LAB01\\Playfair.Designer.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\Playfair.Designer.cs",
+              "RelativeToolTip": "LAB01\\Playfair.Designer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwEwAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:34:44.882Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

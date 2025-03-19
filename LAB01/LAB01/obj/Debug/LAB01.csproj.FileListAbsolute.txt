@@ -1,0 +1,13 @@
+C:\Users\Tofu\source\repos\LAB01\LAB01\obj\Debug\LAB01.csproj.AssemblyReference.cache
+C:\Users\Tofu\source\repos\LAB01\LAB01\obj\Debug\LAB01.Properties.Resources.resources
+C:\Users\Tofu\source\repos\LAB01\LAB01\obj\Debug\LAB01.csproj.GenerateResource.cache
+C:\Users\Tofu\source\repos\LAB01\LAB01\obj\Debug\LAB01.csproj.CoreCompileInputs.cache
+C:\Users\Tofu\source\repos\LAB01\LAB01\bin\Debug\LAB01.exe.config
+C:\Users\Tofu\source\repos\LAB01\LAB01\bin\Debug\LAB01.exe
+C:\Users\Tofu\source\repos\LAB01\LAB01\bin\Debug\LAB01.pdb
+C:\Users\Tofu\source\repos\LAB01\LAB01\obj\Debug\LAB01.exe
+C:\Users\Tofu\source\repos\LAB01\LAB01\obj\Debug\LAB01.pdb
+C:\Users\Tofu\source\repos\LAB01\LAB01\obj\Debug\LAB01.Playfair.resources
+C:\Users\Tofu\source\repos\LAB01\LAB01\obj\Debug\LAB01.Vigenere.resources
+C:\Users\Tofu\source\repos\LAB01\LAB01\obj\Debug\LAB01.XOR.resources
+C:\Users\Tofu\source\repos\LAB01\LAB01\obj\Debug\LAB01.MenuForm.resources
