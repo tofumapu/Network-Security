@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Tofu\\source\\repos\\LAB01\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|c:\\users\\tofu\\source\\repos\\lab01\\lab01\\xor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\xor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|C:\\Users\\Tofu\\source\\repos\\LAB01\\lab01\\xor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\xor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|c:\\users\\tofu\\source\\repos\\lab01\\lab01\\menuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\menuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|c:\\users\\tofu\\source\\repos\\lab01\\lab01\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|c:\\users\\tofu\\source\\repos\\lab01\\lab01\\xor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\xor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|C:\\Users\\Tofu\\source\\repos\\LAB01\\lab01\\xor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\xor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|C:\\Users\\Tofu\\source\\repos\\LAB01\\lab01\\xor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,11 +74,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MenuForm.cs",
               "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\MenuForm.cs",
               "RelativeDocumentMoniker": "LAB01\\MenuForm.cs",
@@ -91,13 +91,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "XOR.cs",
               "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\XOR.cs",
               "RelativeDocumentMoniker": "LAB01\\XOR.cs",
               "ToolTip": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\XOR.cs",
               "RelativeToolTip": "LAB01\\XOR.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAuwCgAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwB4AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T04:07:05.459Z",
               "EditorCaption": ""
@@ -130,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "XOR.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\XOR.cs",
               "RelativeDocumentMoniker": "LAB01\\XOR.cs",
@@ -142,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MenuForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\MenuForm.Designer.cs",
               "RelativeDocumentMoniker": "LAB01\\MenuForm.Designer.cs",
@@ -155,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MenuForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\MenuForm.cs",
               "RelativeDocumentMoniker": "LAB01\\MenuForm.cs",
