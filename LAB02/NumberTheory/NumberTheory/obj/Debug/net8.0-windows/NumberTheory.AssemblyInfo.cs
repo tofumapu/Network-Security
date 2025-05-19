@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NumberTheory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6ed87c8b87a95874a482fb31df7cd1a5a13acac")]
 [assembly: System.Reflection.AssemblyProductAttribute("NumberTheory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NumberTheory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

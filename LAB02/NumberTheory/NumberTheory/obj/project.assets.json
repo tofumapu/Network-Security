@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tofu\\source\\repos\\NumberTheory\\NumberTheory\\NumberTheory.csproj",
+      "projectUniqueName": "D:\\Github\\Network-Security\\LAB02\\NumberTheory\\NumberTheory\\NumberTheory.csproj",
       "projectName": "NumberTheory",
-      "projectPath": "C:\\Users\\Tofu\\source\\repos\\NumberTheory\\NumberTheory\\NumberTheory.csproj",
+      "projectPath": "D:\\Github\\Network-Security\\LAB02\\NumberTheory\\NumberTheory\\NumberTheory.csproj",
       "packagesPath": "C:\\Users\\Tofu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tofu\\source\\repos\\NumberTheory\\NumberTheory\\obj\\",
+      "outputPath": "D:\\Github\\Network-Security\\LAB02\\NumberTheory\\NumberTheory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

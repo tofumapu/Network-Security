@@ -1,57 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Tofu\\source\\repos\\NumberTheory\\",
+  "WorkspaceRootPath": "D:\\Github\\Network-Security\\LAB02\\NumberTheory\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|c:\\users\\tofu\\source\\repos\\numbertheory\\numbertheory\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|d:\\github\\network-security\\lab02\\numbertheory\\numbertheory\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|solutionrelative:numbertheory\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|c:\\users\\tofu\\source\\repos\\numbertheory\\numbertheory\\generaterandomprimenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|solutionrelative:numbertheory\\generaterandomprimenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|c:\\users\\tofu\\source\\repos\\numbertheory\\numbertheory\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|D:\\Github\\Network-Security\\LAB02\\NumberTheory\\numbertheory\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|solutionrelative:numbertheory\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|c:\\users\\tofu\\source\\repos\\numbertheory\\numbertheory\\generaterandomprimenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|D:\\Github\\Network-Security\\LAB02\\NumberTheory\\numbertheory\\generaterandomprimenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|solutionrelative:numbertheory\\generaterandomprimenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|c:\\users\\tofu\\source\\repos\\numbertheory\\numbertheory\\rsa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|d:\\github\\network-security\\lab02\\numbertheory\\numbertheory\\generaterandomprimenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|solutionrelative:numbertheory\\generaterandomprimenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|d:\\github\\network-security\\lab02\\numbertheory\\numbertheory\\rsa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|solutionrelative:numbertheory\\rsa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|c:\\users\\tofu\\source\\repos\\numbertheory\\numbertheory\\generaterandomprimenumber.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|d:\\github\\network-security\\lab02\\numbertheory\\numbertheory\\generaterandomprimenumber.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|solutionrelative:numbertheory\\generaterandomprimenumber.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|c:\\users\\tofu\\source\\repos\\numbertheory\\numbertheory\\exercise1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|d:\\github\\network-security\\lab02\\numbertheory\\numbertheory\\exercise1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|solutionrelative:numbertheory\\exercise1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|c:\\users\\tofu\\source\\repos\\numbertheory\\numbertheory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|d:\\github\\network-security\\lab02\\numbertheory\\numbertheory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|solutionrelative:numbertheory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|C:\\Users\\Tofu\\source\\repos\\NumberTheory\\numbertheory\\exercise3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|D:\\Github\\Network-Security\\LAB02\\NumberTheory\\numbertheory\\exercise3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|solutionrelative:numbertheory\\exercise3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|c:\\users\\tofu\\source\\repos\\numbertheory\\numbertheory\\exercise3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|d:\\github\\network-security\\lab02\\numbertheory\\numbertheory\\exercise3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|solutionrelative:numbertheory\\exercise3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|c:\\users\\tofu\\source\\repos\\numbertheory\\numbertheory\\exercise2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|d:\\github\\network-security\\lab02\\numbertheory\\numbertheory\\exercise2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|solutionrelative:numbertheory\\exercise2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|C:\\Users\\Tofu\\source\\repos\\NumberTheory\\numbertheory\\exercise2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|D:\\Github\\Network-Security\\LAB02\\NumberTheory\\numbertheory\\exercise2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|solutionrelative:numbertheory\\exercise2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|C:\\Users\\Tofu\\source\\repos\\NumberTheory\\numbertheory\\exercise1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|D:\\Github\\Network-Security\\LAB02\\NumberTheory\\numbertheory\\exercise1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F953D18A-D06D-4992-88E8-525F14D06575}|NumberTheory\\NumberTheory.csproj|solutionrelative:numbertheory\\exercise1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -62,17 +62,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenerateRandomPrimeNumber.cs",
+              "DocumentMoniker": "D:\\Github\\Network-Security\\LAB02\\NumberTheory\\NumberTheory\\GenerateRandomPrimeNumber.cs",
+              "RelativeDocumentMoniker": "NumberTheory\\GenerateRandomPrimeNumber.cs",
+              "ToolTip": "D:\\Github\\Network-Security\\LAB02\\NumberTheory\\NumberTheory\\GenerateRandomPrimeNumber.cs",
+              "RelativeToolTip": "NumberTheory\\GenerateRandomPrimeNumber.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwCAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T01:31:06.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenerateRandomPrimeNumber.cs [Design]",
+              "DocumentMoniker": "D:\\Github\\Network-Security\\LAB02\\NumberTheory\\NumberTheory\\GenerateRandomPrimeNumber.cs",
+              "RelativeDocumentMoniker": "NumberTheory\\GenerateRandomPrimeNumber.cs",
+              "ToolTip": "D:\\Github\\Network-Security\\LAB02\\NumberTheory\\NumberTheory\\GenerateRandomPrimeNumber.cs [Design]",
+              "RelativeToolTip": "NumberTheory\\GenerateRandomPrimeNumber.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T01:19:03.63Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RSA.cs [Design]",
+              "DocumentMoniker": "D:\\Github\\Network-Security\\LAB02\\NumberTheory\\NumberTheory\\RSA.cs",
+              "RelativeDocumentMoniker": "NumberTheory\\RSA.cs",
+              "ToolTip": "D:\\Github\\Network-Security\\LAB02\\NumberTheory\\NumberTheory\\RSA.cs [Design]",
+              "RelativeToolTip": "NumberTheory\\RSA.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T23:32:25.249Z",
+              "EditorCaption": " [Design]"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "RSA.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\NumberTheory\\NumberTheory\\RSA.Designer.cs",
+              "DocumentMoniker": "D:\\Github\\Network-Security\\LAB02\\NumberTheory\\NumberTheory\\RSA.Designer.cs",
               "RelativeDocumentMoniker": "NumberTheory\\RSA.Designer.cs",
-              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\NumberTheory\\NumberTheory\\RSA.Designer.cs",
+              "ToolTip": "D:\\Github\\Network-Security\\LAB02\\NumberTheory\\NumberTheory\\RSA.Designer.cs",
               "RelativeToolTip": "NumberTheory\\RSA.Designer.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAADgv3IAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T05:03:56.426Z",
               "EditorCaption": ""
@@ -81,72 +118,34 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "RSA.cs",
-              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\NumberTheory\\NumberTheory\\RSA.cs",
+              "DocumentMoniker": "D:\\Github\\Network-Security\\LAB02\\NumberTheory\\NumberTheory\\RSA.cs",
               "RelativeDocumentMoniker": "NumberTheory\\RSA.cs",
-              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\NumberTheory\\NumberTheory\\RSA.cs",
+              "ToolTip": "D:\\Github\\Network-Security\\LAB02\\NumberTheory\\NumberTheory\\RSA.cs",
               "RelativeToolTip": "NumberTheory\\RSA.cs",
-              "ViewState": "AgIAAN4AAAAAAAAAAAAAAPMAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAuwPsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T00:54:41.341Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GenerateRandomPrimeNumber.cs",
-              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\NumberTheory\\NumberTheory\\GenerateRandomPrimeNumber.cs",
-              "RelativeDocumentMoniker": "NumberTheory\\GenerateRandomPrimeNumber.cs",
-              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\NumberTheory\\NumberTheory\\GenerateRandomPrimeNumber.cs",
-              "RelativeToolTip": "NumberTheory\\GenerateRandomPrimeNumber.cs",
-              "ViewState": "AgIAAIsAAAAAAAAAAAAmwJUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T01:31:06.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GenerateRandomPrimeNumber.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\NumberTheory\\NumberTheory\\GenerateRandomPrimeNumber.cs",
-              "RelativeDocumentMoniker": "NumberTheory\\GenerateRandomPrimeNumber.cs",
-              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\NumberTheory\\NumberTheory\\GenerateRandomPrimeNumber.cs [Design]",
-              "RelativeToolTip": "NumberTheory\\GenerateRandomPrimeNumber.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T01:19:03.63Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RSA.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\NumberTheory\\NumberTheory\\RSA.cs",
-              "RelativeDocumentMoniker": "NumberTheory\\RSA.cs",
-              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\NumberTheory\\NumberTheory\\RSA.cs [Design]",
-              "RelativeToolTip": "NumberTheory\\RSA.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T23:32:25.249Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "GenerateRandomPrimeNumber.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\NumberTheory\\NumberTheory\\GenerateRandomPrimeNumber.Designer.cs",
+              "DocumentMoniker": "D:\\Github\\Network-Security\\LAB02\\NumberTheory\\NumberTheory\\GenerateRandomPrimeNumber.Designer.cs",
               "RelativeDocumentMoniker": "NumberTheory\\GenerateRandomPrimeNumber.Designer.cs",
-              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\NumberTheory\\NumberTheory\\GenerateRandomPrimeNumber.Designer.cs",
+              "ToolTip": "D:\\Github\\Network-Security\\LAB02\\NumberTheory\\NumberTheory\\GenerateRandomPrimeNumber.Designer.cs",
               "RelativeToolTip": "NumberTheory\\GenerateRandomPrimeNumber.Designer.cs",
-              "ViewState": "AgIAAFYBAAAAAAAAAAAkwHoBAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T03:56:08.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T03:56:08.648Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Exercise1.cs",
-              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\NumberTheory\\NumberTheory\\Exercise1.cs",
+              "DocumentMoniker": "D:\\Github\\Network-Security\\LAB02\\NumberTheory\\NumberTheory\\Exercise1.cs",
               "RelativeDocumentMoniker": "NumberTheory\\Exercise1.cs",
-              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\NumberTheory\\NumberTheory\\Exercise1.cs",
+              "ToolTip": "D:\\Github\\Network-Security\\LAB02\\NumberTheory\\NumberTheory\\Exercise1.cs",
               "RelativeToolTip": "NumberTheory\\Exercise1.cs",
               "ViewState": "AgIAAFEAAAAAAAAAAAAYwGcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -157,22 +156,21 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\NumberTheory\\NumberTheory\\Program.cs",
+              "DocumentMoniker": "D:\\Github\\Network-Security\\LAB02\\NumberTheory\\NumberTheory\\Program.cs",
               "RelativeDocumentMoniker": "NumberTheory\\Program.cs",
-              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\NumberTheory\\NumberTheory\\Program.cs",
+              "ToolTip": "D:\\Github\\Network-Security\\LAB02\\NumberTheory\\NumberTheory\\Program.cs",
               "RelativeToolTip": "NumberTheory\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T01:55:14.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T01:55:14.877Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Exercise3.cs",
-              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\NumberTheory\\NumberTheory\\Exercise3.cs",
+              "DocumentMoniker": "D:\\Github\\Network-Security\\LAB02\\NumberTheory\\NumberTheory\\Exercise3.cs",
               "RelativeDocumentMoniker": "NumberTheory\\Exercise3.cs",
-              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\NumberTheory\\NumberTheory\\Exercise3.cs",
+              "ToolTip": "D:\\Github\\Network-Security\\LAB02\\NumberTheory\\NumberTheory\\Exercise3.cs",
               "RelativeToolTip": "NumberTheory\\Exercise3.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -183,21 +181,19 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Exercise3.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\NumberTheory\\NumberTheory\\Exercise3.cs",
+              "DocumentMoniker": "D:\\Github\\Network-Security\\LAB02\\NumberTheory\\NumberTheory\\Exercise3.cs",
               "RelativeDocumentMoniker": "NumberTheory\\Exercise3.cs",
               "ToolTip": "C:\\Users\\Tofu\\source\\repos\\NumberTheory\\NumberTheory\\Exercise3.cs [Design]",
-              "RelativeToolTip": "NumberTheory\\Exercise3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T23:21:33.503Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-07T23:21:33.503Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Exercise2.cs",
-              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\NumberTheory\\NumberTheory\\Exercise2.cs",
+              "DocumentMoniker": "D:\\Github\\Network-Security\\LAB02\\NumberTheory\\NumberTheory\\Exercise2.cs",
               "RelativeDocumentMoniker": "NumberTheory\\Exercise2.cs",
-              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\NumberTheory\\NumberTheory\\Exercise2.cs",
+              "ToolTip": "D:\\Github\\Network-Security\\LAB02\\NumberTheory\\NumberTheory\\Exercise2.cs",
               "RelativeToolTip": "NumberTheory\\Exercise2.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -208,10 +204,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Exercise2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\NumberTheory\\NumberTheory\\Exercise2.cs",
+              "DocumentMoniker": "D:\\Github\\Network-Security\\LAB02\\NumberTheory\\NumberTheory\\Exercise2.cs",
               "RelativeDocumentMoniker": "NumberTheory\\Exercise2.cs",
               "ToolTip": "C:\\Users\\Tofu\\source\\repos\\NumberTheory\\NumberTheory\\Exercise2.cs [Design]",
-              "RelativeToolTip": "NumberTheory\\Exercise2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T23:13:26.247Z"
             },
@@ -219,10 +214,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Exercise1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\NumberTheory\\NumberTheory\\Exercise1.cs",
+              "DocumentMoniker": "D:\\Github\\Network-Security\\LAB02\\NumberTheory\\NumberTheory\\Exercise1.cs",
               "RelativeDocumentMoniker": "NumberTheory\\Exercise1.cs",
               "ToolTip": "C:\\Users\\Tofu\\source\\repos\\NumberTheory\\NumberTheory\\Exercise1.cs [Design]",
-              "RelativeToolTip": "NumberTheory\\Exercise1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T22:36:41.339Z"
             }
