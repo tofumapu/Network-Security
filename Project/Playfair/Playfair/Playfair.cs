@@ -77,32 +77,6 @@ namespace Playfair
         private string ProcessText(string input, bool encrypt)
         {
             string text = input.ToUpper().Replace("J", "I").Where(c => c >= 'A' && c <= 'Z').Aggregate("", (current, c) => current + c);
-            StringBuilder preparedText = new StringBuilder();
-            int i = 0;
-            while (i < cleanText.Length)
-            {
-                char a = cleanText[i];
-                char b;
-        
-                if (i + 1 < cleanText.Length)
-                    b = cleanText[i + 1];
-                else
-                    b = 'X';
-        
-                if (a == b)
-                {
-                    preparedText.Append(a);
-                    preparedText.Append('X');
-                    i += 1; // chỉ nhảy 1 ký tự để xét tiếp b ở lượt sau
-                }
-                else
-                {
-                    preparedText.Append(a);
-                    preparedText.Append(b);
-                    i += 2;
-                }
-            }
-            
             string result = "";
             if (text.Length % 2 != 0) text += "X";
 
