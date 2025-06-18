@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\Github\\Network-Security\\LAB01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|D:\\Github\\Network-Security\\LAB01\\lab01\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|d:\\github\\network-security\\lab01\\lab01\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\playfair.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|d:\\github\\network-security\\lab01\\lab01\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|D:\\Github\\Network-Security\\LAB01\\lab01\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -86,8 +86,7 @@
               "RelativeToolTip": "LAB01\\MenuForm.Designer.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAuwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T04:05:22.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T04:05:22.271Z"
             },
             {
               "$type": "Document",
@@ -98,8 +97,7 @@
               "ToolTip": "D:\\Github\\Network-Security\\LAB01\\LAB01\\MenuForm.cs [Design]",
               "RelativeToolTip": "LAB01\\MenuForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T04:05:01.217Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-19T04:05:01.217Z"
             },
             {
               "$type": "Document",
@@ -111,8 +109,7 @@
               "RelativeToolTip": "LAB01\\MenuForm.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAADwvxIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T04:05:32.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T04:05:32.5Z"
             },
             {
               "$type": "Document",

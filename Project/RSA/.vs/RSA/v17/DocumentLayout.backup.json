@@ -1,34 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Tofu\\source\\repos\\RSA\\",
+  "WorkspaceRootPath": "D:\\Github\\Network-Security\\Project\\RSA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2357396-6A76-4344-801A-0B10B086372E}|RSA\\RSA.csproj|c:\\users\\tofu\\source\\repos\\rsa\\rsa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2357396-6A76-4344-801A-0B10B086372E}|RSA\\RSA.csproj|solutionrelative:rsa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2357396-6A76-4344-801A-0B10B086372E}|RSA\\RSA.csproj|c:\\users\\tofu\\source\\repos\\rsa\\rsa\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2357396-6A76-4344-801A-0B10B086372E}|RSA\\RSA.csproj|solutionrelative:rsa\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2357396-6A76-4344-801A-0B10B086372E}|RSA\\RSA.csproj|c:\\users\\tofu\\source\\repos\\rsa\\rsa\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B2357396-6A76-4344-801A-0B10B086372E}|RSA\\RSA.csproj|solutionrelative:rsa\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2357396-6A76-4344-801A-0B10B086372E}|RSA\\RSA.csproj|c:\\users\\tofu\\source\\repos\\rsa\\rsa\\rsa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2357396-6A76-4344-801A-0B10B086372E}|RSA\\RSA.csproj|solutionrelative:rsa\\rsa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2357396-6A76-4344-801A-0B10B086372E}|RSA\\RSA.csproj|c:\\users\\tofu\\source\\repos\\rsa\\rsa\\generaterandomprimenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2357396-6A76-4344-801A-0B10B086372E}|RSA\\RSA.csproj|solutionrelative:rsa\\generaterandomprimenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2357396-6A76-4344-801A-0B10B086372E}|RSA\\RSA.csproj|c:\\users\\tofu\\source\\repos\\rsa\\rsa\\generaterandomprimenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B2357396-6A76-4344-801A-0B10B086372E}|RSA\\RSA.csproj|D:\\Github\\Network-Security\\Project\\RSA\\rsa\\generaterandomprimenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B2357396-6A76-4344-801A-0B10B086372E}|RSA\\RSA.csproj|solutionrelative:rsa\\generaterandomprimenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2357396-6A76-4344-801A-0B10B086372E}|RSA\\RSA.csproj|c:\\users\\tofu\\source\\repos\\rsa\\rsa\\generaterandomprimenumber.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2357396-6A76-4344-801A-0B10B086372E}|RSA\\RSA.csproj|solutionrelative:rsa\\generaterandomprimenumber.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2357396-6A76-4344-801A-0B10B086372E}|RSA\\RSA.csproj|D:\\Github\\Network-Security\\Project\\RSA\\rsa\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2357396-6A76-4344-801A-0B10B086372E}|RSA\\RSA.csproj|solutionrelative:rsa\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2357396-6A76-4344-801A-0B10B086372E}|RSA\\RSA.csproj|d:\\github\\network-security\\project\\rsa\\rsa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2357396-6A76-4344-801A-0B10B086372E}|RSA\\RSA.csproj|solutionrelative:rsa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,15 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\RSA\\RSA\\Program.cs",
+              "DocumentMoniker": "D:\\Github\\Network-Security\\Project\\RSA\\RSA\\Program.cs",
               "RelativeDocumentMoniker": "RSA\\Program.cs",
-              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\RSA\\RSA\\Program.cs",
+              "ToolTip": "D:\\Github\\Network-Security\\Project\\RSA\\RSA\\Program.cs",
               "RelativeToolTip": "RSA\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -55,37 +39,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RSA.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\RSA\\RSA\\RSA.Designer.cs",
-              "RelativeDocumentMoniker": "RSA\\RSA.Designer.cs",
-              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\RSA\\RSA\\RSA.Designer.cs",
-              "RelativeToolTip": "RSA\\RSA.Designer.cs",
-              "ViewState": "AgIAAFsBAAAAAAAAAAAowIQBAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T05:51:56.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GenerateRandomPrimeNumber.cs",
-              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\RSA\\RSA\\GenerateRandomPrimeNumber.cs",
-              "RelativeDocumentMoniker": "RSA\\GenerateRandomPrimeNumber.cs",
-              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\RSA\\RSA\\GenerateRandomPrimeNumber.cs",
-              "RelativeToolTip": "RSA\\GenerateRandomPrimeNumber.cs",
-              "ViewState": "AgIAABwBAAAAAAAAAAAAAF0BAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T05:51:38.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "GenerateRandomPrimeNumber.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\RSA\\RSA\\GenerateRandomPrimeNumber.cs",
+              "DocumentMoniker": "D:\\Github\\Network-Security\\Project\\RSA\\RSA\\GenerateRandomPrimeNumber.cs",
               "RelativeDocumentMoniker": "RSA\\GenerateRandomPrimeNumber.cs",
-              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\RSA\\RSA\\GenerateRandomPrimeNumber.cs [Design]",
+              "ToolTip": "D:\\Github\\Network-Security\\Project\\RSA\\RSA\\GenerateRandomPrimeNumber.cs [Design]",
               "RelativeToolTip": "RSA\\GenerateRandomPrimeNumber.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T05:50:28.841Z",
@@ -93,41 +51,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "RSA.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\RSA\\RSA\\RSA.cs",
+              "DocumentMoniker": "D:\\Github\\Network-Security\\Project\\RSA\\RSA\\RSA.cs",
               "RelativeDocumentMoniker": "RSA\\RSA.cs",
-              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\RSA\\RSA\\RSA.cs [Design]",
+              "ToolTip": "D:\\Github\\Network-Security\\Project\\RSA\\RSA\\RSA.cs [Design]",
               "RelativeToolTip": "RSA\\RSA.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T00:52:45.743Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RSA.cs",
-              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\RSA\\RSA\\RSA.cs",
-              "RelativeDocumentMoniker": "RSA\\RSA.cs",
-              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\RSA\\RSA\\RSA.cs",
-              "RelativeToolTip": "RSA\\RSA.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T00:52:56.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GenerateRandomPrimeNumber.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\RSA\\RSA\\GenerateRandomPrimeNumber.Designer.cs",
-              "RelativeDocumentMoniker": "RSA\\GenerateRandomPrimeNumber.Designer.cs",
-              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\RSA\\RSA\\GenerateRandomPrimeNumber.Designer.cs",
-              "RelativeToolTip": "RSA\\GenerateRandomPrimeNumber.Designer.cs",
-              "ViewState": "AgIAAFMBAAAAAAAAAAAowHwBAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T05:50:32.38Z",
-              "EditorCaption": ""
             }
           ]
         }

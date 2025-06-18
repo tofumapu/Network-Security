@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tofu\\source\\repos\\Playfair\\Playfair\\Playfair.csproj": {}
+    "D:\\Github\\Network-Security\\Project\\Playfair\\Playfair\\Playfair.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tofu\\source\\repos\\Playfair\\Playfair\\Playfair.csproj": {
+    "D:\\Github\\Network-Security\\Project\\Playfair\\Playfair\\Playfair.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tofu\\source\\repos\\Playfair\\Playfair\\Playfair.csproj",
+        "projectUniqueName": "D:\\Github\\Network-Security\\Project\\Playfair\\Playfair\\Playfair.csproj",
         "projectName": "Playfair",
-        "projectPath": "C:\\Users\\Tofu\\source\\repos\\Playfair\\Playfair\\Playfair.csproj",
+        "projectPath": "D:\\Github\\Network-Security\\Project\\Playfair\\Playfair\\Playfair.csproj",
         "packagesPath": "C:\\Users\\Tofu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tofu\\source\\repos\\Playfair\\Playfair\\obj\\",
+        "outputPath": "D:\\Github\\Network-Security\\Project\\Playfair\\Playfair\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

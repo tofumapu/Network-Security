@@ -3,7 +3,19 @@
   "WorkspaceRootPath": "D:\\Github\\Network-Security\\LAB01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|d:\\github\\network-security\\lab01\\lab01\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|d:\\github\\network-security\\lab01\\lab01\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|D:\\Github\\Network-Security\\LAB01\\lab01\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|D:\\Github\\Network-Security\\LAB01\\lab01\\playfair.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\playfair.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|D:\\Github\\Network-Security\\LAB01\\lab01\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -51,20 +63,8 @@
       "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\vigenere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|D:\\Github\\Network-Security\\LAB01\\lab01\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|D:\\Github\\Network-Security\\LAB01\\lab01\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|D:\\Github\\Network-Security\\LAB01\\lab01\\caesarcipher.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\caesarcipher.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|D:\\Github\\Network-Security\\LAB01\\lab01\\playfair.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B16032D7-695E-404C-ACA2-545BC2600904}|LAB01\\LAB01.csproj|solutionrelative:lab01\\playfair.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,19 +78,90 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "XOR.cs",
-              "DocumentMoniker": "D:\\Github\\Network-Security\\LAB01\\LAB01\\XOR.cs",
-              "RelativeDocumentMoniker": "LAB01\\XOR.cs",
-              "ToolTip": "D:\\Github\\Network-Security\\LAB01\\LAB01\\XOR.cs",
-              "RelativeToolTip": "LAB01\\XOR.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAuwB4AAABCAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "MenuForm.Designer.cs",
+              "DocumentMoniker": "D:\\Github\\Network-Security\\LAB01\\LAB01\\MenuForm.Designer.cs",
+              "RelativeDocumentMoniker": "LAB01\\MenuForm.Designer.cs",
+              "ToolTip": "D:\\Github\\Network-Security\\LAB01\\LAB01\\MenuForm.Designer.cs",
+              "RelativeToolTip": "LAB01\\MenuForm.Designer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T04:07:05.459Z"
+              "WhenOpened": "2025-03-19T04:05:22.271Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "MenuForm.cs [Design]",
+              "DocumentMoniker": "D:\\Github\\Network-Security\\LAB01\\LAB01\\MenuForm.cs",
+              "RelativeDocumentMoniker": "LAB01\\MenuForm.cs",
+              "ToolTip": "D:\\Github\\Network-Security\\LAB01\\LAB01\\MenuForm.cs [Design]",
+              "RelativeToolTip": "LAB01\\MenuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T04:05:01.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuForm.cs",
+              "DocumentMoniker": "D:\\Github\\Network-Security\\LAB01\\LAB01\\MenuForm.cs",
+              "RelativeDocumentMoniker": "LAB01\\MenuForm.cs",
+              "ToolTip": "D:\\Github\\Network-Security\\LAB01\\LAB01\\MenuForm.cs",
+              "RelativeToolTip": "LAB01\\MenuForm.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvxIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T04:05:32.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Playfair.Designer.cs",
+              "DocumentMoniker": "D:\\Github\\Network-Security\\LAB01\\LAB01\\Playfair.Designer.cs",
+              "RelativeDocumentMoniker": "LAB01\\Playfair.Designer.cs",
+              "ToolTip": "D:\\Github\\Network-Security\\LAB01\\LAB01\\Playfair.Designer.cs",
+              "RelativeToolTip": "LAB01\\Playfair.Designer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:34:44.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Playfair.cs [Design]",
+              "DocumentMoniker": "D:\\Github\\Network-Security\\LAB01\\LAB01\\Playfair.cs",
+              "RelativeDocumentMoniker": "LAB01\\Playfair.cs",
+              "ToolTip": "D:\\Github\\Network-Security\\LAB01\\LAB01\\Playfair.cs [Design]",
+              "RelativeToolTip": "LAB01\\Playfair.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:34:33.211Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Playfair.cs",
+              "DocumentMoniker": "D:\\Github\\Network-Security\\LAB01\\LAB01\\Playfair.cs",
+              "RelativeDocumentMoniker": "LAB01\\Playfair.cs",
+              "ToolTip": "D:\\Github\\Network-Security\\LAB01\\LAB01\\Playfair.cs",
+              "RelativeToolTip": "LAB01\\Playfair.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:04:17.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "XOR.cs [Design]",
+              "DocumentMoniker": "D:\\Github\\Network-Security\\LAB01\\LAB01\\XOR.cs",
+              "RelativeDocumentMoniker": "LAB01\\XOR.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\XOR.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T04:05:43.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Github\\Network-Security\\LAB01\\LAB01\\Program.cs",
               "RelativeDocumentMoniker": "LAB01\\Program.cs",
@@ -102,55 +173,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "XOR.cs [Design]",
+              "DocumentIndex": 6,
+              "Title": "XOR.cs",
               "DocumentMoniker": "D:\\Github\\Network-Security\\LAB01\\LAB01\\XOR.cs",
               "RelativeDocumentMoniker": "LAB01\\XOR.cs",
-              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\XOR.cs [Design]",
+              "ToolTip": "D:\\Github\\Network-Security\\LAB01\\LAB01\\XOR.cs",
+              "RelativeToolTip": "LAB01\\XOR.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwB4AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T04:05:43.256Z"
+              "WhenOpened": "2025-03-18T04:07:05.459Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MenuForm.Designer.cs",
-              "DocumentMoniker": "D:\\Github\\Network-Security\\LAB01\\LAB01\\MenuForm.Designer.cs",
-              "RelativeDocumentMoniker": "LAB01\\MenuForm.Designer.cs",
-              "ToolTip": "D:\\Github\\Network-Security\\LAB01\\LAB01\\MenuForm.Designer.cs",
-              "RelativeToolTip": "LAB01\\MenuForm.Designer.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T04:05:22.271Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MenuForm.cs [Design]",
-              "DocumentMoniker": "D:\\Github\\Network-Security\\LAB01\\LAB01\\MenuForm.cs",
-              "RelativeDocumentMoniker": "LAB01\\MenuForm.cs",
-              "ToolTip": "D:\\Github\\Network-Security\\LAB01\\LAB01\\MenuForm.cs [Design]",
-              "RelativeToolTip": "LAB01\\MenuForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T04:05:01.217Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MenuForm.cs",
-              "DocumentMoniker": "D:\\Github\\Network-Security\\LAB01\\LAB01\\MenuForm.cs",
-              "RelativeDocumentMoniker": "LAB01\\MenuForm.cs",
-              "ToolTip": "D:\\Github\\Network-Security\\LAB01\\LAB01\\MenuForm.cs",
-              "RelativeToolTip": "LAB01\\MenuForm.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAADwvxIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T04:05:32.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "XOR.Designer.cs",
               "DocumentMoniker": "D:\\Github\\Network-Security\\LAB01\\LAB01\\XOR.Designer.cs",
               "RelativeDocumentMoniker": "LAB01\\XOR.Designer.cs",
@@ -162,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "CaesarCipher.cs [Design]",
               "DocumentMoniker": "D:\\Github\\Network-Security\\LAB01\\LAB01\\CaesarCipher.cs",
               "RelativeDocumentMoniker": "LAB01\\CaesarCipher.cs",
@@ -172,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "CaesarCipher.cs",
               "DocumentMoniker": "D:\\Github\\Network-Security\\LAB01\\LAB01\\CaesarCipher.cs",
               "RelativeDocumentMoniker": "LAB01\\CaesarCipher.cs",
@@ -184,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Vigenere.cs [Design]",
               "DocumentMoniker": "D:\\Github\\Network-Security\\LAB01\\LAB01\\Vigenere.cs",
               "RelativeDocumentMoniker": "LAB01\\Vigenere.cs",
@@ -194,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Vigenere.Designer.cs",
               "DocumentMoniker": "D:\\Github\\Network-Security\\LAB01\\LAB01\\Vigenere.Designer.cs",
               "RelativeDocumentMoniker": "LAB01\\Vigenere.Designer.cs",
@@ -206,19 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Playfair.cs",
-              "DocumentMoniker": "D:\\Github\\Network-Security\\LAB01\\LAB01\\Playfair.cs",
-              "RelativeDocumentMoniker": "LAB01\\Playfair.cs",
-              "ToolTip": "D:\\Github\\Network-Security\\LAB01\\LAB01\\Playfair.cs",
-              "RelativeToolTip": "LAB01\\Playfair.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAQwGkAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T12:04:17.416Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Vigenere.cs",
               "DocumentMoniker": "D:\\Github\\Network-Security\\LAB01\\LAB01\\Vigenere.cs",
               "RelativeDocumentMoniker": "LAB01\\Vigenere.cs",
@@ -230,17 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Playfair.cs [Design]",
-              "DocumentMoniker": "D:\\Github\\Network-Security\\LAB01\\LAB01\\Playfair.cs",
-              "RelativeDocumentMoniker": "LAB01\\Playfair.cs",
-              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\LAB01\\LAB01\\Playfair.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T11:34:33.211Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "CaesarCipher.Designer.cs",
               "DocumentMoniker": "D:\\Github\\Network-Security\\LAB01\\LAB01\\CaesarCipher.Designer.cs",
               "RelativeDocumentMoniker": "LAB01\\CaesarCipher.Designer.cs",
@@ -249,18 +262,6 @@
               "ViewState": "AgIAAA8AAAAAAAAAAAAuwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T11:30:38.395Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Playfair.Designer.cs",
-              "DocumentMoniker": "D:\\Github\\Network-Security\\LAB01\\LAB01\\Playfair.Designer.cs",
-              "RelativeDocumentMoniker": "LAB01\\Playfair.Designer.cs",
-              "ToolTip": "D:\\Github\\Network-Security\\LAB01\\LAB01\\Playfair.Designer.cs",
-              "RelativeToolTip": "LAB01\\Playfair.Designer.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAuwEwAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T11:34:44.882Z"
             }
           ]
         }
